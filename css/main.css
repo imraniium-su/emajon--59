@@ -1,0 +1,49 @@
+.author{
+    color:red;
+}
+
+      .blog{
+        background-color: aqua;
+        border: 4px solid green;
+        border-radius: 15px;
+        margin: 15px 15px 20px 15px;
+        padding: 5px 20px 10px 20px;
+
+      }
+     .block-tittle{
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Courier New', Courier, monospace;
+        color: salmon;
+     }
+     .block-p{
+        color: black;
+        text-align: justify;
+        font: weight 500px; ;
+
+     }
+     .h{
+        font-size: 80 px; 
+        font-family: verdana; 
+        color: rgb(42, 184, 54); 
+        text-shadow: 3px 3px rgb(140, 201, 140);
+        text-align: center;
+     }
+     .sm{
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 500px;
+        color: seagreen;
+     }
+     .p1{
+        font-size: 50 px; 
+        font-family: verdana; 
+        color: rgb(103, 163, 24); 
+        text-shadow: 1px 1px rgb(140, 201, 140);
+        text-align: center;
+     }
+     .div1{
+        text-align: center;
+        margin: 5px ;
+    
+     }
